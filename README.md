@@ -1,4 +1,5 @@
 <img width="181" height="20" alt="image" src="https://github.com/user-attachments/assets/196497fb-7952-47da-ba09-07c0a12c6615" />
+[![Build Status](https://dev.azure.com/Trainer19052026/IBM-ICP-DevOps/_apis/build/status%2FBhoomika-EK.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/Trainer19052026/IBM-ICP-DevOps/_build/latest?definitionId=10&branchName=main)
 
 # Python/Flask Tutorial for Visual Studio Code
 
