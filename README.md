@@ -1,3 +1,5 @@
+<img width="181" height="20" alt="image" src="https://github.com/user-attachments/assets/196497fb-7952-47da-ba09-07c0a12c6615" />
+
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
